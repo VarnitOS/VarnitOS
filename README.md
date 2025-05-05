@@ -7,7 +7,6 @@
 <div align="center">
   <a href="mailto:vsahu@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-vsahu%40uwaterloo.ca-blue?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/varnitsahu"><img src="https://img.shields.io/badge/LinkedIn-Varnit_Sahu-blue?style=flat-square&logo=linkedin"></a>
-  <a href="tel:+16474049425"><img src="https://img.shields.io/badge/Phone-647--404--9425-blue?style=flat-square&logo=phone"></a>
   <img src="https://img.shields.io/badge/Location-Ontario,_CA-blue?style=flat-square&logo=google-maps">
 </div>
 
