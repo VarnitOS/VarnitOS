@@ -1,40 +1,83 @@
-# Hi there! 👋 I'm Varnit
+# <div align="center">Varnit Sahu</div>
 
-## 🚀 About Me
-I'm a passionate developer interested in operating systems, systems programming, and building robust software solutions. My journey in tech is driven by curiosity and a desire to understand how things work at a fundamental level.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E3440&center=true&vCenter=true&random=false&width=600&height=100&lines=Machine+Learning+Engineer;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-## 🛠 Technical Skills
-- **Languages:** C/C++, Python, JavaScript
-- **Systems Programming:** Operating Systems, Low-level Programming
-- **Tools & Technologies:** Git, Linux, Docker
-- **Areas of Interest:** OS Development, System Architecture, Performance Optimization
+<div align="center">
+  <a href="mailto:vsahu@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-vsahu%40uwaterloo.ca-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/varnitsahu"><img src="https://img.shields.io/badge/LinkedIn-Varnit_Sahu-blue?style=flat-square&logo=linkedin"></a>
+  <a href="tel:+16474049425"><img src="https://img.shields.io/badge/Phone-647--404--9425-blue?style=flat-square&logo=phone"></a>
+  <img src="https://img.shields.io/badge/Location-Ontario,_CA-blue?style=flat-square&logo=google-maps">
+</div>
 
-## 🔭 Current Projects
-- Working on personal projects in systems programming
-- Exploring modern operating system concepts
-- Contributing to open-source projects
+## 🎓 Education
+- **University of Waterloo** | Bachelor of Computer Science, Honours, Co-op
+  - GPA: 3.92/4.0
+  - President's Scholarship of Distinction ($2,000)
+  - Dean's Honours List
 
-## 📚 Learning & Growth
-- Currently diving deeper into operating systems architecture
-- Exploring advanced systems programming concepts
-- Always open to learning new technologies and best practices
+## 💻 Technical Expertise
 
-## 🤝 Let's Connect!
-- 💼 [LinkedIn](your_linkedin_url)
-- 📧 Email: your.email@example.com
-- 🌐 [Personal Website/Blog](your_website_url)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 🚀 Featured Projects
+
+### [NetVigil](https://github.com/VarnitOS/NetVigil)
+High-performance network security middleware built with Go, Gin, Redis, and Prometheus
+- Engineered security middleware with <3ms latency overhead
+- Implemented advanced threat detection for SQL injection, XSS, and DDoS attacks
+- Designed scalable microservices with Redis-backed rate limiting
+
+### [Agentic AI Legal Clinic](https://github.com/VarnitOS/GenAiGenesis)
+Multi-agent legal research system using Cohere Embeddings and ChromaDB
+- Built multi-agent system with specialized communication protocols
+- Achieved 78% reduction in token usage and 65% decreased query latency
+- Maintained 99.7% uptime during 3,000+ concurrent requests
+
+## 🌟 Professional Experience
+
+### Machine Learning Engineer | WAT.ai
+- Developed ML pipeline for oil well drilling prediction with 92.7% accuracy
+- Engineered 40+ features from multi-dimensional data
+- Built LSTM RNN model outperforming existing methods by 3.4x
+- Architected real-time inference system processing 100K+ data points/second
+
+## 🎯 Current Focus
+- Advanced Computer Organization & Design
+- Advanced Object-Oriented Programming
+- Compiler Development
+- Operating Systems
+- Game Theory Applications in Banking
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VarnitOS&show_icons=true&theme=dark)
 
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=VarnitOS&theme=darkhub)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarnitOS&show_icons=true&theme=nord" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarnitOS&theme=nord" />
+</div>
 
-## 🗂️ Featured Repositories
-[![OS Project](https://github-readme-stats.vercel.app/api/pin/?username=VarnitOS&repo=your-os-project)](https://github.com/VarnitOS/your-os-project)
+## 🏆 Certifications
+- Stanford - Advanced Learning Algorithms by Andrew Ng
+- Stanford - Game Theory
+- PwC: Data Analysis and Presentation Skills
 
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! Let's connect and build amazing things together.</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VarnitOS&color=blue" alt="Profile Views" />
+</div>
