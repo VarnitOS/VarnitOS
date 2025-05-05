@@ -107,10 +107,6 @@ interests_outside_tech:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitOS&layout=compact&theme=nord" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarnitOS&theme=nord" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VarnitOS&theme=nord&no-frame=true&row=1&margin-w=15" />
