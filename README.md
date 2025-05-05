@@ -44,13 +44,6 @@ Multi-agent legal research system using Cohere Embeddings and ChromaDB
 - Achieved 78% reduction in token usage and 65% decreased query latency
 - Maintained 99.7% uptime during 3,000+ concurrent requests
 
-## 🌟 Professional Experience
-
-### Machine Learning Engineer | WAT.ai
-- Developed ML pipeline for oil well drilling prediction with 92.7% accuracy
-- Engineered 40+ features from multi-dimensional data
-- Built LSTM RNN model outperforming existing methods by 3.4x
-- Architected real-time inference system processing 100K+ data points/second
 
 ## 🎯 Current Focus
 - Advanced Computer Organization & Design
