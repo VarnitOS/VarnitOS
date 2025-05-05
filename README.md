@@ -103,7 +103,6 @@ interests_outside_tech:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarnitOS&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitOS&layout=compact&theme=nord" />
 </div>
 
