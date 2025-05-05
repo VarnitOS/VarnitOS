@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/Location-Ontario,_CA-blue?style=flat-square&logo=google-maps">
 </div>
 
-## 🎓 Education
-- **University of Waterloo** | Bachelor of Computer Science, Honours, Co-op
-  - GPA: 3.92/4.0
-  - President's Scholarship of Distinction ($2,000)
-  - Dean's Honours List
-
 ## 💻 Technical Expertise
 
 ### Languages
