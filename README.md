@@ -96,9 +96,11 @@ interests_outside_tech:
 - Game Theory Applications
 
 ## 🎓 Certifications
-- Stanford - Advanced Learning Algorithms by Andrew Ng
-- Stanford - Game Theory
-- PwC: Data Analysis and Presentation Skills
+- AWS Certified Cloud Practitioner
+- Advanced Learning Algorithms by Andrew Ng (Stanford)
+- Search Engine Optimization (SEO) Specialization (UC Davis)
+- Game Theory (Stanford)
+- Data Analysis and Presentation Skills (Microsoft Excel) (PwC)
 
 ## 📈 GitHub Stats
 
