@@ -20,10 +20,11 @@ education:
   university: University of Waterloo
   degree: Bachelor of Computer Science, Honours, Co-op
 current_focus:
-  - Advanced Computer Organization & Design
-  - Advanced Object-Oriented Programming
-  - Compiler & OS Development
-  - Game Theory Applications in Banking
+  - Cloud-native infrastructure
+  - Object-Oriented Programming
+  - CUDA And model infrence
+  - LLM Lifecycle
+  - vibecoding
 development_environment: Visual Studio Code
 open_to_collaboration: Yes
 interests_outside_tech:
