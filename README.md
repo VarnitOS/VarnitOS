@@ -69,33 +69,6 @@ interests_outside_tech:
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
-## 🚀 Featured Projects
-
-### 🛡️ [NetVigil](https://github.com/VarnitOS/NetVigil)
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
-
-### 🤖 [Agentic AI Legal Clinic](https://github.com/VarnitOS/GenAiGenesis)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-## 🧠 Areas of Interest
-- C/C++ Embedding
-- Agentic AI & Machine Learning
-- Full-Stack Development
-- Systems Programming (OS, Compilers)
-- Game Theory Applications
-
 ## 🎓 Certifications
 - AWS Certified Cloud Practitioner
 - Advanced Learning Algorithms by Andrew Ng (Stanford)
